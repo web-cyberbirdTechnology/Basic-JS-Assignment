@@ -47,7 +47,7 @@
 
 ### Problem-09
  9. Write a function getPropertyValue that takes an object and a property name as arguments and returns the value of that property.
-  Example Input: { name: 'John', age: 30 }, 'age'
+  Example Input: { name: 'John', age: 30 }, 'age'.
   Example Output: 30
 
 ### Problem-10
